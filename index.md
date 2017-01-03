@@ -1,9 +1,10 @@
 # Welcome to Andy's GitHub Pages site
 
-Here we are.
+Source is in my ~/Documents/GitHub/ajmoorhouse.github.io
 
-### Getting Started
+### All you do....
 
-Just go here.
+... is edit a file (in Atom), then in GH Desktop, "Commit to master" with a
+Summary message, and Sync.
 
-Or here.
+Can probably add links to my other GH stuff.
