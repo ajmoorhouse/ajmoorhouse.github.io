@@ -7,4 +7,4 @@ Source is in my ~/Documents/GitHub/ajmoorhouse.github.io
 ... is edit a file (in Atom), then in GH Desktop, "Commit to master" with a
 Summary message, and Sync.
 
-Can probably add links to my other GH stuff.
+Can probably add links to my other GH stuff (when I create it).
