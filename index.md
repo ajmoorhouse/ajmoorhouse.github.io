@@ -9,4 +9,4 @@ Summary message, and Sync.
 
 Here are my [scripts](https://github.com/ajmoorhouse/my_scripts).
 
-Here is the [wiki for proposed Eurorack clock gen](https://github.com/ajmoorhouse/clock_gen/wiki)
+Here is the [wiki for proposed Eurorack clock gen](https://github.com/ajmoorhouse/clock_gen/wiki).
